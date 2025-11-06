@@ -1,0 +1,72 @@
+<svg width="900" height="650" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="650" fill="#fafafa"/>
+  
+  <!-- Document Header -->
+  <rect x="40" y="40" width="820" height="570" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" rx="8"/>
+  
+  <!-- Title Area -->
+  <text x="60" y="75" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600" fill="#1a1a1a">Tripp VR User Research Synthesis</text>
+  <text x="60" y="95" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#999">Sources: App store reviews, support tickets, Reddit (r/OculusQuest, r/Meditation)</text>
+  <line x1="60" y1="110" x2="840" y2="110" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <!-- Persona 1 -->
+  <rect x="60" y="130" width="380" height="220" fill="#fef9f3" stroke="#fdba74" stroke-width="2" rx="6"/>
+  <text x="80" y="155" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700" fill="#ea580c">PERSONA 1: Burnout Professional</text>
+  <text x="80" y="175" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#9a3412">High-stress job, needs quick mental reset</text>
+  
+  <text x="80" y="200" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#333">Sample quotes from research:</text>
+  <text x="80" y="218" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#666">"I need to decompress after back-to-back meetings"</text>
+  <text x="80" y="234" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#666">"Can't afford therapy but this helps me reset"</text>
+  <text x="80" y="250" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#666">"15 mins in VR = 2 hours of regular meditation"</text>
+  
+  <text x="80" y="275" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#333">Pain points:</text>
+  <text x="90" y="292" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">• High cognitive load all day</text>
+  <text x="90" y="307" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">• Can't turn brain off during breaks</text>
+  <text x="90" y="322" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">• Short time windows (lunch, commute)</text>
+  
+  <!-- Persona 2 -->
+  <rect x="460" y="130" width="380" height="220" fill="#f0fdf4" stroke="#86efac" stroke-width="2" rx="6"/>
+  <text x="480" y="155" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700" fill="#15803d">PERSONA 2: Psychedelic-Curious</text>
+  <text x="480" y="175" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#14532d">Interested in altered states, not ready for substances</text>
+  
+  <text x="480" y="200" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#333">Sample quotes from research:</text>
+  <text x="480" y="218" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#666">"Safer alternative to actual psychedelics"</text>
+  <text x="480" y="234" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#666">"This is what I imagined the experience would be like"</text>
+  <text x="480" y="250" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#666">"No paranoia, no comedown, just the benefits"</text>
+  
+  <text x="480" y="275" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#333">Pain points:</text>
+  <text x="490" y="292" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">• Wants altered states, not substances</text>
+  <text x="490" y="307" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">• Concerned about legality/health risks</text>
+  <text x="490" y="322" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">• Seeking ego dissolution experiences</text>
+  
+  <!-- Persona 3 -->
+  <rect x="60" y="370" width="380" height="220" fill="#f0f9ff" stroke="#7dd3fc" stroke-width="2" rx="6"/>
+  <text x="80" y="395" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700" fill="#0369a1">PERSONA 3: Sleep-Deprived Parent</text>
+  <text x="80" y="415" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#0c4a6e">Desperate for better rest, open to unconventional solutions</text>
+  
+  <text x="80" y="440" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#333">Sample quotes from research:</text>
+  <text x="80" y="458" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#666">"Only thing that helps me fall asleep anymore"</text>
+  <text x="80" y="474" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#666">"Better than melatonin and no grogginess"</text>
+  <text x="80" y="490" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#666">"My racing thoughts finally quiet down"</text>
+  
+  <text x="80" y="515" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#333">Pain points:</text>
+  <text x="90" y="532" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">• Chronic sleep disruption (kids, stress)</text>
+  <text x="90" y="547" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">• Exhausted but can't shut brain off</text>
+  <text x="90" y="562" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">• Desperate for non-pharmaceutical help</text>
+  
+  <!-- Key Insight Box -->
+  <rect x="460" y="370" width="380" height="220" fill="#fefce8" stroke="#fde047" stroke-width="2" rx="6"/>
+  <text x="480" y="395" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700" fill="#854d0e">KEY INSIGHT</text>
+  
+  <text x="480" y="425" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#333">What they all share:</text>
+  <text x="490" y="445" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">1. Skeptical of "wellness" marketing speak</text>
+  <text x="490" y="463" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">2. Already tried traditional meditation (failed)</text>
+  <text x="490" y="481" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">3. Want immediate relief, not long-term practice</text>
+  <text x="490" y="499" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#555">4. Don't care about tech specs/features</text>
+  
+  <text x="480" y="525" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#333">Content strategy shift:</text>
+  <text x="480" y="545" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#854d0e" font-weight="600">Lead with their problem</text>
+  <text x="480" y="560" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#854d0e" font-weight="600">Show outcome, not process</text>
+  <text x="480" y="575" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#854d0e" font-weight="600">Skip the tech jargon entirely</text>
+</svg>
